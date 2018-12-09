@@ -1,1 +1,2 @@
-# FuckingSyStem
+# Probot ✨
+Epic Discord Bot
